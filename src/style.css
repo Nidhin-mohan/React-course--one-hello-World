@@ -1,0 +1,14 @@
+body{
+    background-color: #03203C
+}
+
+h1{
+    color: #66AD47;
+    font-size: 25px;
+}
+.btn {
+    padding: 10px 20px ;
+    color: #fff;
+    background-color: #0D0D0D;
+    border: none;
+}
